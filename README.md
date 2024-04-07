@@ -1,6 +1,6 @@
-- 👋 Hi, I’m vikashmishra
+- 👋 Hi, I’m vikash mishra
 - 👀 I’m interested in Full stack web designing 
-- 🌱 I’m a react developer 
+- 🌱 I’m a fullstack mern developer 
 
 - 📫 How to reach me ? visit to my portfolio 
 
