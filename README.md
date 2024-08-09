@@ -19,7 +19,7 @@ I'm currently pursuing my B.Tech from B.S.A College of Engineering and Technolog
 ### 📫 How to Reach Me?
 - Visit my [portfolio](https://vikash-six.vercel.app/) 
 - Email: vikashmishra8371@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/drx-rajesh-singh-chauhan-3551b5146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- LinkedIn: [visit linkedIn](https://www.linkedin.com/in/vikash-mishra-099478277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!---
 vikashmishra1234/vikashmishra1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
