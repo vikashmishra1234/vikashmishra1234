@@ -3,7 +3,7 @@
 - 🌱 I’m a Full Stack MERN Developer
 
 ### About Me
-I'm currently pursuing my B.Tech from B.Sc College of Engineering and Technology, Mathura. I have a strong passion for web development and love creating efficient and scalable web applications.
+I'm currently pursuing my B.Tech from B.S.A College of Engineering and Technology, Mathura. I have a strong passion for web development and love creating efficient and scalable web applications.
 
 ### Skills & Technologies
 - **Languages:** JavaScript, Java
@@ -18,8 +18,8 @@ I'm currently pursuing my B.Tech from B.Sc College of Engineering and Technology
 
 ### 📫 How to Reach Me?
 - Visit my [portfolio](https://vikash-six.vercel.app/) 
-- Email: [vikashmishra8371@gmail.com]
-- LinkedIn: [[your LinkedIn profile here](https://www.linkedin.com/in/drx-rajesh-singh-chauhan-3551b5146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- Email: vikashmishra8371@gmail.com
+- LinkedIn: [(https://www.linkedin.com/in/drx-rajesh-singh-chauhan-3551b5146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 
 <!---
 vikashmishra1234/vikashmishra1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
