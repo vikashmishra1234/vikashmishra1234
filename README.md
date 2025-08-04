@@ -1,8 +1,8 @@
-# 👋 Hello, I'm **Vikash Mishra** - Full Stack MERN Developer
+# 👋 Hello, I'm **Vikash Mishra** - Full Stack Developer
 
 🚀 **Experienced Full Stack Developer** | 💻 **MERN Stack/Nextjs Specialist** | 🎨 **Modern Web Designer** | 🌟 **Open Source Contributor**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=for-the-badge&logo=vercel)](https://vikash-six.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Here-blue?style=for-the-badge&logo=vercel)](https://vikashmishra.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-mishra-099478277)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vikashmishra8371@gmail.com)
 
@@ -10,7 +10,7 @@
 
 ## 🌟 **About Me - Professional Full Stack Developer**
 
-🏆 **1+ Years of Web Development Experience** specializing in **JavaScript**, **React.js**, **Node.js**, and **MongoDB**  
+🏆 **1+ Years of Web Development Experience** specializing in **JavaScript**, **React.js**, **Node.js**, and **Nextjs**  
 💡 **Problem Solver** passionate about creating scalable web applications and innovative digital solutions  
 🌍 **Based in Mathura, Uttar Pradesh, India** - Contributing to the global tech community  
 
