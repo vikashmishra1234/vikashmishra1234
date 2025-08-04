@@ -107,25 +107,11 @@
 
 ## 🏆 **Professional Experience & Achievements**
 
-- 🎯 **50+ Web Applications** developed and deployed
+- 🎯 **10+ Web Applications** developed and deployed
 - 🌟 **Open Source Contributor** with active GitHub presence
 - 📚 **Technical Content Creator** sharing knowledge on Dev.to
-- 🤝 **Mentored 10+ Junior Developers** in MERN Stack development
 - 🏅 **College Technical Lead** for web development projects
 - 💼 **Freelance Developer** with satisfied clients worldwide
-
----
-
-## 📝 **Technical Blog & Content**
-
-🖊️ **Active Technical Writer** sharing insights on:
-- **React.js Best Practices** and Performance Optimization
-- **Node.js Backend Development** and API Design
-- **MongoDB Database** Design Patterns
-- **Full Stack Development** Tutorials
-- **Web Performance** and SEO Optimization
-
-📖 **Read My Articles:** [Dev.to/@vikashmishra](https://dev.to/vikashmishra)
 
 ---
 
@@ -152,13 +138,12 @@
 🌟 **Always excited to work on innovative projects and contribute to the tech community!**
 
 ### 📬 **Contact Information:**
-- 🌐 **Portfolio Website:** [vikash-six.vercel.app](https://vikash-six.vercel.app/)
+- 🌐 **Portfolio Website:** [vikash-six.vercel.app](https://vikashmishra.vercel.app/)
 - 📧 **Professional Email:** [vikashmishra8371@gmail.com](mailto:vikashmishra8371@gmail.com)
 - 💼 **LinkedIn Profile:** [Vikash Mishra - Full Stack Developer](https://www.linkedin.com/in/vikash-mishra-099478277)
 - 🐙 **GitHub:** [@vikashmishra1234](https://github.com/vikashmishra1234)
 
 ### 🔗 **Additional Profiles:**
-- 📝 **Technical Articles:** [Dev.to/@vikashmishra](https://dev.to/vikashmishra)
 - 📋 **Code Snippets:** [GitHub Gist](https://gist.github.com/vikashmishra1234)
 - 🐦 **Tech Updates:** Follow for latest web development trends
 - 💬 **Open for:** Collaborations, Freelance Projects, Technical Discussions
